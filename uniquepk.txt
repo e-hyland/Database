@@ -1,0 +1,5 @@
+id{PK}--Name{STR}--Kind{STR}--Owner{STR}
+1--Fido--dog--ab123
+2--Wanda--fish--ef789
+3--Garfield--cat--ab123
+3--Garfield--null--ab123

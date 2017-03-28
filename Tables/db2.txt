@@ -1,0 +1,6 @@
+TableTwo
+Username{PK}--Name{STR}--id{FK=TableOne}--Age{INT}
+ab123--Jo--23
+cd456--Sam--25
+ef789--Amy--37
+gh012--Pete--45

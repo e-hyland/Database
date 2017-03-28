@@ -1,0 +1,12 @@
+TableOne
+id{PK}--Name{STR}--Kind{STR}--Owner{STR}--
+1--Fido--dog--ab123--
+2--Wanda--fish--ef789--
+3--Garfield--cat--ab123--
+4--Garfield--null--ab123--
+TableTwo
+Username{PK}--Name{STR}--id{FK=TableOne}--Age{INT}--
+ab123--Jo--1--23--
+cd456--Sam--2--25--
+ef789--Amy--3--37--
+gh012--Pete--4--45--
